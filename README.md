@@ -17,6 +17,26 @@
 <li>Visualization</li>
 </ul>
 
+<h3>Highlight</h3>
+<ul>
+  <li>Custom search on dropdown list</li>
+  <li>Export selected variable, dimension, measures, sheets, story to host application</li>
+  <li>Restore Old backup of downloaded versions</li>
+  <li>Get full Backend Script</li>
+</ul>
+
+
+<h3>How product works?</h3>
+<ul>
+  <li>Open the host application</li>
+  <li>Make a new sheet</li>
+  <li>Add the extension on the sheet</li>
+  <li>Select the application from where we need our objects from Custom Objects</li>
+  <li>Select desired variables, measure, dimension, Visualization, story, connections & sheet</li>
+  <li>Hit on clone button to make a new object in host application</li>
+</ul>
+
+
 <p>Click to view PPT</p>
 [![QSC](./logo2.png)](https://youtu.be/wOPHePL-lXw)
 

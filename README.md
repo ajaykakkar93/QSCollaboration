@@ -1,3 +1,5 @@
 # QSCollaboration
 
-[![QSC](./logo.png)](https://youtu.be/wOPHePL-lXw)
+
+
+[![QSC](./logo2.png)](https://youtu.be/wOPHePL-lXw)

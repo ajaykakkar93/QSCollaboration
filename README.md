@@ -38,11 +38,12 @@
 
 <p>Click to view PPT</p>
 [![QSC](./logo.png)](https://youtu.be/wOPHePL-lXw)
+[![Demo](./logo.png)](https://youtu.be/wOPHePL-lXw)
 
 <p>Useful Demos:</p>
-<a href="https://youtu.be/3El9T8k1TuM">QS Collaboration Overview</a>
-<a href="https://youtu.be/GByyGaGDdKo">QSC Variable</a>
-<a href="https://youtu.be/vQClltBGZno">QSC Master Items</a>
-<a href="https://youtu.be/ulA5KunWhBQ">QSC Master Visualization</a>
-<a href="https://youtu.be/4FxyY7F_98Q">QSC Sheet</a>
-<a href="https://youtu.be/QyIDEFUkfuc">QSC Restore Backup JSON</a>
+<a href="https://youtu.be/3El9T8k1TuM">QS Collaboration Overview</a> <br>
+<a href="https://youtu.be/GByyGaGDdKo">QSC Variable</a> <br>
+<a href="https://youtu.be/vQClltBGZno">QSC Master Items</a> <br>
+<a href="https://youtu.be/ulA5KunWhBQ">QSC Master Visualization</a> <br>
+<a href="https://youtu.be/4FxyY7F_98Q">QSC Sheet</a> <br>
+<a href="https://youtu.be/QyIDEFUkfuc">QSC Restore Backup JSON</a> <br>

@@ -36,10 +36,8 @@
   <li>Hit on clone button to make a new object in host application</li>
 </ul>
 
-
 <p>Click to view PPT</p>
-[![QSC](./logo2.png)](https://youtu.be/wOPHePL-lXw)
-
+[![QSC](./logo.png)](https://youtu.be/wOPHePL-lXw)
 
 <p>Useful Demos:</p>
 <a href="https://youtu.be/3El9T8k1TuM">QS Collaboration Overview</a>
